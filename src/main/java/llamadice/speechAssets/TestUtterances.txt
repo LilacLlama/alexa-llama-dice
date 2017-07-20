@@ -1,0 +1,15 @@
+Alexa ask Llama Dice please roll 5 die with 20 sides -- Nope
+Alexa ask Llama Dice please roll 5 dice with 20 sides -- Nope
+Alexa ask Llama Dice to roll 5 dice with 20 sides*
+Alexa ask Llama Dice roll 5 die with 20 sides -- Nope
+Alexa ask Llama Dice roll 5 dice with 20 sides
+Alexa ask Llama Dice roll me a 20 sided die 5 times
+Alexa ask Llama Dice roll me 20 sided dice 5 times*
+Alexa ask Llama Dice roll 5 dice with 20 sides
+Alexa ask Llama Dice roll 5 die with 20 sides -- nope
+Alexa ask Llama Dice toss 5 dice 20 times -- nope
+Alexa ask Llama Dice toss 5 die 20 times -- nope
+Alexa ask Llama Dice please roll me 5 d 20
+Alexa ask Llama Dice to roll 5 d 20
+Alexa ask Llama Dice roll 5 d 20*
+Alexa ask Llama Dice toss 5 d 20

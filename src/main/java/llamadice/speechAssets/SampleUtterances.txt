@@ -1,0 +1,15 @@
+RollSomeIntent to roll {NumDie} dice with {DieSides} sides
+RollSomeIntent roll {NumDie} dice with {DieSides} sides
+RollSomeIntent roll me a {DieSides} sided die {NumDie} times
+RollSomeIntent roll me {DieSides} sided dice {NumDie} times
+RollSomeIntent roll {NumDie} dice with {DieSides} sides
+RollSomeIntent please roll me {NumDie} d {DieSides}
+RollSomeIntent to roll {NumDie} d {DieSides}
+RollSomeIntent roll {NumDie} d {DieSides}
+RollSomeIntent toss {NumDie} d {DieSides}
+
+
+Alexa ask Llama Dice please roll 5 dice with 10 sides
+
+Alexa ask Llama Dice roll ten die with six sides
+Alexa ask Llama Dice toss 4 d 20

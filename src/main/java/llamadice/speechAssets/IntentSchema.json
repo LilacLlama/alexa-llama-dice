@@ -1,0 +1,35 @@
+{
+    "intents": [
+        {
+            "intent": "RollOneIntent",
+            "slots": [
+                {
+                    "name": "DieSides",
+                    "type": "AMAZON.NUMBER"
+                }
+            ]
+        },
+        {
+            "intent": "RollSomeIntent",
+            "slots": [
+                {
+                    "name": "NumDie",
+                    "type": "AMAZON.NUMBER"
+                },
+                {
+                    "name": "DieSides",
+                    "type": "AMAZON.NUMBER"
+                }
+            ]
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        }
+    ]
+}
